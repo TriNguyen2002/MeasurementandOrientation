@@ -5,5 +5,5 @@ Test subject is a rectangular object
 
 TODO:
 - Circle
-- 3D vision
-- Packaging into main file for camera
+- Intergrate Yolov8
+
