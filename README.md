@@ -1,9 +1,8 @@
 # MeasureandOrientation
 Project for Image Processing class 2023.2 HUST
 
-Test subject is a rectangular object
+A simple GUI for measuring shape and orientation of a 25mm falcon tube.
 
 TODO:
-- Circle
 - Intergrate Yolov8
 
